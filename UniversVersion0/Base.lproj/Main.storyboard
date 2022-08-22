@@ -175,7 +175,7 @@
                                             <constraint firstAttribute="height" constant="40" id="eSF-m9-8gs"/>
                                         </constraints>
                                         <state key="normal" title="Button"/>
-                                        <buttonConfiguration key="configuration" style="plain" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="plain" title="Sign Up"/>
                                         <connections>
                                             <action selector="signUpTapped:" destination="UBt-5F-cWU" eventType="touchUpInside" id="qKc-eO-V0y"/>
                                         </connections>
